@@ -100,7 +100,7 @@ source ./venv/bin/activate
 Instalar dependências - Install dependencies:
 ```
 pip3 install opencv-python-headless 
-pip install --upgrade pip
+pip3 install --upgrade pip
 pip3 install face_recognition
 pip3 install git+https://github.com/ageitgey/face_recognition_models
 pip3 install --upgrade setuptools wheel
