@@ -7,10 +7,14 @@ Projeto Python para reconhcer pessoas na webCam.
 pip list
 Package                 Version
 ----------------------- -----------
-*absl-py                 2.1.0
-*astunparse              1.6.3
-*beautifulsoup4          4.12.3
-*blinker                 1.8.2
+* absl-py                 2.1.0
+
+* astunparse              1.6.3
+
+* beautifulsoup4          4.12.3
+
+* blinker                 1.8.2
+
 *certifi                 2024.7.4
 *charset-normalizer      3.3.2
 *click                   8.1.7
